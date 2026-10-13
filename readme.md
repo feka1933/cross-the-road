@@ -1,1 +1,1 @@
-This is where we put the instructions on how to use the program.
+Här skriver vi hur man använder programmet.
