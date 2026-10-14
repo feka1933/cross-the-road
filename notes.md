@@ -38,22 +38,16 @@ flowchart LR
 
 ## Representation
 
-Från M5 (A, B, C) känner ni till följande enkla datatyper i Python:
-
-- None
-- Tal (av olika slag)
-- Booleans (True/False)
-
-Ni känner även till följande sammansatta datatyper i Python:
-
-- Strängar
-- Listor
-- Tupler
-- Dictionaries 
-
-Beskriv vilka olika "saker" som finns i ert system och hur ni planerar att representera dessa i Python.
-
-
+| Datatyp | Sak | Exempel | Förklaring |
+|---|---|---|---|
+| **Tal** | Poäng | `poäng = 12` | Antal rader spelaren tagit sig framåt ger poäng |                                                                             
+| **Tal** | Svårighetsgrad | `bil_chans = 0.2` | Sannolikheten att en ruta på en väg får en bil, ökar med poängen, t.ex. 20 procent chans för bil |
+| **Booleans** | Game over | `game_over = False` | Blir `True` vid krock, spelet körs så länge den är `False` |
+| **Strängar** | Inmatning | `tangent = "w"` | Tangenten spelaren trycker, `input()` ger en sträng, "w" för framåt |
+| **Strängar** | Bil och tom ruta | `"B"` och `"."` | En bil är strängen `"B"` på en plats i en rad, en tom ruta är `"."` |
+| **Listor** | Spelplan och rutor | `bana = [rad1, rad2, ...]` och `[".", "B", "B", "."]` | Raderna och rutorna ligger i en bestämd ordning, och nya slumpade rader kan läggas till när spelaren går framåt |
+| **Dictionaries** | Rader | `{"typ": "väg", "riktning": 1, "rutor": [...]}` | En rad har flera egenskaper som får tydliga namn, gräs eller väg, riktning av bil, vad som finns i varje ruta etc. |
+| **Tupler** | Spelarens position | `spelare = (5, 3)` | En tupel som räknar ut spelarens position, som inte kan ändras|
 
 ## Komplexitet och förenkling
 
