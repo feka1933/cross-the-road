@@ -11,6 +11,7 @@ Textbaserad version av spelet crossy road som körs i terminalen, spelaren ska f
 Försök bryta ner problemet i mindre delar och visa hur dessa delar hänger samman:
 - Skriv ingen kod
 - Arbeta med vanlig text och rita figurer
+
 spelplan             - alla rader, och vad som finns på dem
 hinder               - bilar som rör på sig som spelaren inte får röra
 inmatning            - känner av vilken input spelaren ger
