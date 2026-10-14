@@ -51,14 +51,7 @@ flowchart LR
 
 ## Komplexitet och förenkling
 
-Beskriv kortfattat hur systemet kan förenklas och hur komplexitet kan läggas till steg för steg.
-
-Var inte rädda för att förenkla kraftigt. Ni kan även ge förslag på kreativa utökningar som ni skulle vilja lägga till om ni får tid över. 
-
-enkel version kan ha stillastående bilar och konstant svårighetsgrad med en bana som upprepas i ett mönster.
-ökad komplexitet kan lägga till rörliga bilar, slumpmässigt genererad bana med ökad svårighetsgrad, bilar med olika hastighet, poängräknare, olika svårighetsgrad
-
-
+En enkel version av spelet har stillastående bilar, konstant svårighetsgrad och en bana som upprepas i ett fast mönster. Därefter kan komplexitet läggas till steg för steg: bilar som rör sig, en slumpmässigt genererad bana, en poängräknare och en svårighetsgrad som ökar ju längre spelaren kommer. Om tid finns kan vi lägga till bilar med olika hastighet och valbara svårighetsnivåer.
 
 ## Personliga utvecklingsmål
 
