@@ -12,12 +12,12 @@ Försök bryta ner problemet i mindre delar och visa hur dessa delar hänger sam
 - Skriv ingen kod
 - Arbeta med vanlig text och rita figurer
 
-spelplan             - alla rader, och vad som finns på dem
-hinder               - bilar som rör på sig som spelaren inte får röra
-inmatning            - känner av vilken input spelaren ger
-kollisionskontroll   - kontrollerar så inte spelaren står på samma plats som en bil
-randomfunktion       - funktion som på något sätt genererar en slumpmässig bana
-svårighetsändring    - funktion som på något sätt ökar svårighet ju längre spelaren kommer
+- spelplan              alla rader, och vad som finns på dem
+- hinder                bilar som rör på sig som spelaren inte får röra
+- inmatning             känner av vilken input spelaren ger
+- kollisionskontroll    kontrollerar så inte spelaren står på samma plats som en bil
+- randomfunktion        funktion som på något sätt genererar en slumpmässig bana
+- svårighetsändring     funktion som på något sätt ökar svårighet ju längre spelaren kommer
 
 
 
