@@ -1,6 +1,6 @@
 ## Vår idé
 
-Våran idé är att göra en textbaserad version av spelet crossy road som körs i terminalen, spelaren ska försöka ta sig så långt som möjligt i en bana bestående av säkra områden och bilar, blir man påkörd är spelet över.
+Våran idé är att göra en textbaserad version av spelet crossy road som körs i terminalen. Spelaren ska försöka ta sig så långt som möjligt i en bana bestående av säkra områden och bilar, blir man påkörd är spelet över.
 
 Problemet vi vill lösa är hur man bygger ett spel där bilarna rör sig oberoende av spelaren och hur programmet upptäcker krockar mellan dem. Vi vill också lösa hur en bana kan genereras slumpmässigt men ändå alltid gå att klara, med ökande svårighetsgrad.
 
@@ -55,6 +55,4 @@ En enkel version av spelet har stillastående bilar, konstant svårighetsgrad oc
 
 ## Personliga utvecklingsmål
 
-Beskriv hur ni planerar att ta hänsyn till era personliga utvecklingsmål under projektet. 
-
-genom att bygga ett applikation med random funktion från grunden (från idé till färdig produkt) tar vi hänsyn till bådas utvecklingsmål 
+Genom att bygga en applikation från grunden, från idé till färdig produkt, så tar vi hänsyn till båda våra utvecklingsmål. Vi får arbeta med hela processen: från planering och problemnedbrytning till implementation, och vi får särskilt öva på att använda slumpfunktioner för att generera en bana som ändå alltid går att klara. Eftersom vi arbetar i par fördelar vi uppgifterna så att var och en får ansvar för de delar som hör till sina egna mål. Samtidigt förklarar vi vår kod för varandra, så att båda lär sig av hela projektet och inte bara av sin egen del.
