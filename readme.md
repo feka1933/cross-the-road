@@ -1,1 +1,1 @@
-Här skriver vi hur man använder programmet
+Det färdiga koden finns i 'main.py'

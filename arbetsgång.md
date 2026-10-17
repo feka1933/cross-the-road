@@ -1,6 +1,22 @@
 ## Förenklad version av python-crossing:
+1. En fast spelbana som en lista, utan slump och bilar:
+- finns i board.py
 
-## Färdig version av python-crossing:
+2. En funktion för att flytta spelaren:
+- finns i player.py
+
+3. Stillastående bilar och kollision:
+- finns i cars.py och collision.py
+
+## Avancerad version av python-crossing:
+
+1. Poäng system
+
+2. Bilar som förflyttar sig på spelbanan
+
+3. Slumpade rader
+
+4. Ökande svårighet
 
 ## Funktioner och vokabulär:
 
